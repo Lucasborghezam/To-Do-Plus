@@ -49,15 +49,6 @@ As tarefas possuem identificação de prioridade por cores e também pela espess
 
 ---
 
-## Estrutura do projeto
-
-To-Do-Plus/
- ├── index.html
- ├── style.css
- └── script.js
-
----
-
 ## Como executar
 
 1. Clone o repositório:
